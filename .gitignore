@@ -1,0 +1,11 @@
+# Ignore node_modules directory
+node_modules/
+
+# Ignore log files
+*.log
+
+# Ignore other non-essential files
+*.tmp
+*.bak
+*.swp
+.DS_Store
